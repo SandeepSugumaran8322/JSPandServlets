@@ -1,0 +1,47 @@
+Adding required rule
+1	Attribute used to mark an field mandatory?
+mandatory="true"
+required="true"
+require="true"
+2	Tag used to display messages in JSF?
+<alert/>
+<message/>
+<messages/>
+<h:messages/>
+3	which attribute is required in order to display message based on id of a particular field using <h:message/>?
+for=”idOfTheParticularField” 
+id=”idOfTheParticularField”
+value=”idOfTheParticularField”
+
+4	Tag used to add length validation to a field ?
+Adding required rule
+1	Attribute used to mark an field mandatory?
+mandatory="true"
+required="true"
+require="true"
+2	Tag used to display messages in JSF?
+<alert/>
+<message/>
+<messages/>
+<h:messages/>
+3	which attribute is required in order to display message based on id of a particular field using <h:message/>?
+for=”idOfTheParticularField” 
+id=”idOfTheParticularField”
+value=”idOfTheParticularField”
+
+4	Tag used to add length validation to a field ?
+<f:validateLength/>
+<f:validateLongRange/>
+<f:validateDoubleRange/>
+<f:validateLengthRange/>
+5	Tag used to validate a field using regular expression?
+<f:validateRegExp/>
+<f:validatePattern/>
+<f:validateRegex/>
+<f:regexp/>
+6	<f:validRegex/> can also validate a empty field
+true 
+false
+7	Custom rule to a field can be added using which attribute?
+		yes
+		No
